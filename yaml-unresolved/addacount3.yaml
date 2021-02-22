@@ -88,12 +88,6 @@ info:
     url: 'https://developer.yodlee.com/legal#_License'
   contact:
     email: developer@yodlee.com
-  description: >-
-    This file describes the Yodlee Platform APIs, using the swagger notation.
-    You can use this swagger file to generate client side SDKs to the Yodlee
-    Platform APIs for many different programming languages. You can generate a
-    client SDK for Python, Java, javascript, PHP or other languages according to
-    your development needs. For more details about our APIs themselves, please
   termsOfService: 'https://developer.yodlee.com/legal'
   title: Get Accounts APIs
   version: 1.1.0-oas3
