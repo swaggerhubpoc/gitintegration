@@ -94,7 +94,6 @@ info:
     Platform APIs for many different programming languages. You can generate a
     client SDK for Python, Java, javascript, PHP or other languages according to
     your development needs. For more details about our APIs themselves, please
-    refer to <a href="https://developer.yodlee.com/Yodlee_API/">acb </a>
   termsOfService: 'https://developer.yodlee.com/legal'
   title: Get Accounts APIs
   version: 1.1.0-oas3
