@@ -1526,4 +1526,4 @@ components:
             $ref: 'https://api.swaggerhub.com/domains/Yodlee-POC/AccountAddress/1.0.0'
         paymentBankTransferCode:
           $ref: >-
-            https://api.swaggerhub.com/domains/Yodlee-POC/PaymentBankTransferCode/1.0.0
+            "https://api.swaggerhub.com/domains/Yodlee-POC/PaymentBankTransferCode/1.0.0"
